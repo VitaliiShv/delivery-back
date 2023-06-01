@@ -1,0 +1,158 @@
+[
+  {
+    "name": "Big Mac",
+    "restaurant": "McDonald's",
+    "restaurantId": "6478a68508f565ccfaa0febf",
+    "price": "57"
+  },
+  {
+    "name": "Zinger Burger",
+    "restaurant": "KFC",
+    "restaurantId": "6478a68508f565ccfaa0febe",
+    "price": "82"
+  },
+  {
+    "name": "Chicken McNuggets",
+    "restaurant": "McDonald's",
+    "restaurantId": "6478a68508f565ccfaa0febf",
+    "price": "34"
+  },
+  {
+    "name": "Fillet-O-Fish",
+    "restaurant": "McDonald's",
+    "restaurantId": "6478a68508f565ccfaa0febf",
+    "price": "79"
+  },
+  {
+    "name": "McChicken",
+    "restaurant": "McDonald's",
+    "restaurantId": "6478a68508f565ccfaa0febf",
+    "price": "42"
+  },
+  {
+    "name": "Twister",
+    "restaurant": "KFC",
+    "restaurantId": "6478a68508f565ccfaa0febe",
+    "price": "68"
+  },
+  {
+    "name": "Potato Wedges",
+    "restaurant": "KFC",
+    "restaurantId": "6478a68508f565ccfaa0febe",
+    "price": "25"
+  },
+  {
+    "name": "Mighty Angus",
+    "restaurant": "McDonald's",
+    "restaurantId": "6478a68508f565ccfaa0febf",
+    "price": "92"
+  },
+  {
+    "name": "Crunchy Chicken",
+    "restaurant": "KFC",
+    "restaurantId": "6478a68508f565ccfaa0febe",
+    "price": "38"
+  },
+  {
+    "name": "Big Tasty",
+    "restaurant": "McDonald's",
+    "restaurantId": "6478a68508f565ccfaa0febf",
+    "price": "61"
+  },
+  {
+    "name": "Zinger Tower Burger",
+    "restaurant": "KFC",
+    "restaurantId": "6478a68508f565ccfaa0febe",
+    "price": "73"
+  },
+  {
+    "name": "Cheeseburger",
+    "restaurant": "McDonald's",
+    "restaurantId": "6478a68508f565ccfaa0febf",
+    "price": "47"
+  },
+  {
+    "name": "Big Crunch",
+    "restaurant": "KFC",
+    "restaurantId": "6478a68508f565ccfaa0febe",
+    "price": "88"
+  },
+  {
+    "name": "McWrap",
+    "restaurant": "McDonald's",
+    "restaurantId": "6478a68508f565ccfaa0febf",
+    "price": "23"
+  },
+  {
+    "name": "Crispy Strips",
+    "restaurant": "KFC",
+    "restaurantId": "6478a68508f565ccfaa0febe",
+    "price": "55"
+  },
+  {
+    "name": "Grilled Chicken",
+    "restaurant": "KFC",
+    "restaurantId": "6478a68508f565ccfaa0febe",
+    "price": "97"
+  },
+  {
+    "name": "McDouble",
+    "restaurant": "McDonald's",
+    "restaurantId": "6478a68508f565ccfaa0febf",
+    "price": "31"
+  },
+  {
+    "name": "Colonel's Original",
+    "restaurant": "KFC",
+    "restaurantId": "6478a68508f565ccfaa0febe",
+    "price": "76"
+  },
+  {
+    "name": "Spicy Wings",
+    "restaurant": "Chicken HUT",
+    "restaurantId": "6478a68508f565ccfaa0febd",
+    "price": "45"
+  },
+  {
+    "name": "Crispy Drumsticks",
+    "restaurant": "Chicken HUT",
+    "restaurantId": "6478a68508f565ccfaa0febd",
+    "price": "39"
+  },
+  {
+    "name": "Potato Snack",
+    "restaurant": "Chicken HUT",
+    "restaurantId": "6478a68508f565ccfaa0febd",
+    "price": "18"
+  },
+  {
+    "name": "Chicken Fillet",
+    "restaurant": "Chicken HUT",
+    "restaurantId": "6478a68508f565ccfaa0febd",
+    "price": "52"
+  },
+  {
+    "name": "Chicken Kiev",
+    "restaurant": "Пузата Хата",
+    "restaurantId": "6478a68508f565ccfaa0febc",
+    "price": "58"
+  },
+  {
+    "name": "Borsch",
+    "restaurant": "Пузата Хата",
+    "restaurantId": "6478a68508f565ccfaa0febc",
+    "price": "28"
+  },
+  {
+    "name": "Varenyky",
+    "restaurant": "Пузата Хата",
+    "restaurantId": "6478a68508f565ccfaa0febc",
+    "price": "32"
+  },
+  {
+    "name": "Chicken Shawarma",
+    "restaurant": "Пузата Хата",
+    "restaurantId": "6478a68508f565ccfaa0febc",
+    "price": "45"
+  }
+]

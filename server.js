@@ -1,7 +1,13 @@
+const mongoose = require("mongoose");
+
 const app = require("./app");
 
-app.listen(3030, () => {
-  console.log("Server running. Use our API on port: 3030");
-});
+const DB_HOST =
+  "mongodb+srv://vitalii:qSuKcqLo6W3tF6cU@cluster0.xgy3gur.mongodb.net/delivery?retryWrites=true&w=majority";
+
+mongoose
+  .connect(DB_HOST)
+  .then(() => app.listen(3030))
+  .catch((error) => console.log(error.message));
 
 //qSuKcqLo6W3tF6cU

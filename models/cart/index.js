@@ -13,7 +13,9 @@ const getAll = async () => {
 
 const addProductToCart = async ({ productId }) => {
   const allProducts = await productModule.getAll();
+  console.log(allProducts);
   const cart = await getAll();
+  console.log(cart);
   const product = allProducts.find((item) => item.id === productId);
   cart.push(product);
   await fs.writeFile(cartPath, JSON.stringify(cart, null, 2));

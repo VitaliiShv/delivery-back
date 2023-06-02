@@ -4,181 +4,159 @@
     "name": "Big Mac",
     "restaurant": "McDonald's",
     "restaurantId": "1",
-    "price": "57"
+    "price": "57",
+    "imgUrl": "https://t1.gstatic.com/licensed-image?q=tbn:ANd9GcSVCgY4Qbt9Fq6_iTqPg35PFzBhkkHkzfbrPhe0yAgJ8c6ZtQlRwlYsIxIJgLRf9Rwd"
   },
   {
     "id": "2",
     "name": "Zinger Burger",
     "restaurant": "KFC",
     "restaurantId": "2",
-    "price": "82"
+    "price": "82",
+    "imgUrl": "https://t1.gstatic.com/licensed-image?q=tbn:ANd9GcSVCgY4Qbt9Fq6_iTqPg35PFzBhkkHkzfbrPhe0yAgJ8c6ZtQlRwlYsIxIJgLRf9Rwd"
   },
   {
     "id": "3",
     "name": "Chicken McNuggets",
     "restaurant": "McDonald's",
     "restaurantId": "1",
-    "price": "34"
+    "price": "34",
+    "imgUrl": "https://t1.gstatic.com/licensed-image?q=tbn:ANd9GcSVCgY4Qbt9Fq6_iTqPg35PFzBhkkHkzfbrPhe0yAgJ8c6ZtQlRwlYsIxIJgLRf9Rwd"
   },
   {
     "id": "4",
     "name": "Fillet-O-Fish",
     "restaurant": "McDonald's",
     "restaurantId": "1",
-    "price": "79"
+    "price": "79",
+    "imgUrl": "https://t1.gstatic.com/licensed-image?q=tbn:ANd9GcSVCgY4Qbt9Fq6_iTqPg35PFzBhkkHkzfbrPhe0yAgJ8c6ZtQlRwlYsIxIJgLRf9Rwd"
   },
   {
     "id": "5",
     "name": "McChicken",
     "restaurant": "McDonald's",
     "restaurantId": "1",
-    "price": "42"
+    "price": "42",
+    "imgUrl": "https://t1.gstatic.com/licensed-image?q=tbn:ANd9GcSVCgY4Qbt9Fq6_iTqPg35PFzBhkkHkzfbrPhe0yAgJ8c6ZtQlRwlYsIxIJgLRf9Rwd"
   },
   {
     "id": "6",
     "name": "Twister",
     "restaurant": "KFC",
     "restaurantId": "2",
-    "price": "68"
+    "price": "68",
+    "imgUrl": "https://t1.gstatic.com/licensed-image?q=tbn:ANd9GcSVCgY4Qbt9Fq6_iTqPg35PFzBhkkHkzfbrPhe0yAgJ8c6ZtQlRwlYsIxIJgLRf9Rwd"
   },
   {
     "id": "7",
     "name": "Potato Wedges",
     "restaurant": "KFC",
     "restaurantId": "2",
-    "price": "25"
+    "price": "25",
+    "imgUrl": "https://t1.gstatic.com/licensed-image?q=tbn:ANd9GcSVCgY4Qbt9Fq6_iTqPg35PFzBhkkHkzfbrPhe0yAgJ8c6ZtQlRwlYsIxIJgLRf9Rwd"
   },
   {
     "id": "8",
     "name": "Mighty Angus",
     "restaurant": "McDonald's",
     "restaurantId": "1",
-    "price": "92"
+    "price": "92",
+    "imgUrl": "https://t1.gstatic.com/licensed-image?q=tbn:ANd9GcSVCgY4Qbt9Fq6_iTqPg35PFzBhkkHkzfbrPhe0yAgJ8c6ZtQlRwlYsIxIJgLRf9Rwd"
   },
   {
     "id": "9",
     "name": "Crunchy Chicken",
     "restaurant": "KFC",
     "restaurantId": "2",
-    "price": "38"
+    "price": "38",
+    "imgUrl": "https://t1.gstatic.com/licensed-image?q=tbn:ANd9GcSVCgY4Qbt9Fq6_iTqPg35PFzBhkkHkzfbrPhe0yAgJ8c6ZtQlRwlYsIxIJgLRf9Rwd"
   },
   {
     "id": "10",
     "name": "Big Tasty",
     "restaurant": "McDonald's",
     "restaurantId": "1",
-    "price": "61"
+    "price": "61",
+    "imgUrl": "https://t1.gstatic.com/licensed-image?q=tbn:ANd9GcSVCgY4Qbt9Fq6_iTqPg35PFzBhkkHkzfbrPhe0yAgJ8c6ZtQlRwlYsIxIJgLRf9Rwd"
   },
   {
     "id": "11",
     "name": "Zinger Tower Burger",
     "restaurant": "KFC",
     "restaurantId": "2",
-    "price": "73"
+    "price": "73",
+    "imgUrl": "https://t1.gstatic.com/licensed-image?q=tbn:ANd9GcSVCgY4Qbt9Fq6_iTqPg35PFzBhkkHkzfbrPhe0yAgJ8c6ZtQlRwlYsIxIJgLRf9Rwd"
   },
   {
     "id": "12",
     "name": "Cheeseburger",
     "restaurant": "McDonald's",
     "restaurantId": "1",
-    "price": "47"
+    "price": "47",
+    "imgUrl": "https://t1.gstatic.com/licensed-image?q=tbn:ANd9GcSVCgY4Qbt9Fq6_iTqPg35PFzBhkkHkzfbrPhe0yAgJ8c6ZtQlRwlYsIxIJgLRf9Rwd"
   },
   {
     "id": "13",
     "name": "Big Crunch",
     "restaurant": "KFC",
     "restaurantId": "2",
-    "price": "88"
+    "price": "88",
+    "imgUrl": "https://t1.gstatic.com/licensed-image?q=tbn:ANd9GcSVCgY4Qbt9Fq6_iTqPg35PFzBhkkHkzfbrPhe0yAgJ8c6ZtQlRwlYsIxIJgLRf9Rwd"
   },
   {
     "id": "14",
     "name": "McWrap",
     "restaurant": "McDonald's",
     "restaurantId": "1",
-    "price": "23"
+    "price": "23",
+    "imgUrl": "https://t1.gstatic.com/licensed-image?q=tbn:ANd9GcSVCgY4Qbt9Fq6_iTqPg35PFzBhkkHkzfbrPhe0yAgJ8c6ZtQlRwlYsIxIJgLRf9Rwd"
   },
   {
     "id": "15",
     "name": "Crispy Strips",
     "restaurant": "KFC",
     "restaurantId": "2",
-    "price": "55"
+    "price": "55",
+    "imgUrl": "https://t1.gstatic.com/licensed-image?q=tbn:ANd9GcSVCgY4Qbt9Fq6_iTqPg35PFzBhkkHkzfbrPhe0yAgJ8c6ZtQlRwlYsIxIJgLRf9Rwd"
   },
   {
     "id": "16",
     "name": "Grilled Chicken",
     "restaurant": "KFC",
     "restaurantId": "2",
-    "price": "97"
+    "price": "97",
+    "imgUrl": "https://t1.gstatic.com/licensed-image?q=tbn:ANd9GcSVCgY4Qbt9Fq6_iTqPg35PFzBhkkHkzfbrPhe0yAgJ8c6ZtQlRwlYsIxIJgLRf9Rwd"
   },
   {
     "id": "17",
     "name": "McDouble",
     "restaurant": "McDonald's",
     "restaurantId": "1",
-    "price": "31"
+    "price": "31",
+    "imgUrl": "https://t1.gstatic.com/licensed-image?q=tbn:ANd9GcSVCgY4Qbt9Fq6_iTqPg35PFzBhkkHkzfbrPhe0yAgJ8c6ZtQlRwlYsIxIJgLRf9Rwd"
   },
   {
     "id": "18",
     "name": "Colonel's Original",
     "restaurant": "KFC",
     "restaurantId": "2",
-    "price": "76"
+    "price": "76",
+    "imgUrl": "https://t1.gstatic.com/licensed-image?q=tbn:ANd9GcSVCgY4Qbt9Fq6_iTqPg35PFzBhkkHkzfbrPhe0yAgJ8c6ZtQlRwlYsIxIJgLRf9Rwd"
   },
   {
     "id": "19",
     "name": "Spicy Wings",
     "restaurant": "Chicken HUT",
     "restaurantId": "3",
-    "price": "45"
+    "price": "45",
+    "imgUrl": "https://t1.gstatic.com/licensed-image?q=tbn:ANd9GcSVCgY4Qbt9Fq6_iTqPg35PFzBhkkHkzfbrPhe0yAgJ8c6ZtQlRwlYsIxIJgLRf9Rwd"
   },
   {
     "id": "20",
-    "name": "Crispy Drumsticks",
-    "restaurant": "Chicken HUT",
-    "restaurantId": "3",
-    "price": "39"
-  },
-  {
-    "id": "21",
-    "name": "Potato Snack",
-    "restaurant": "Chicken HUT",
-    "restaurantId": "3",
-    "price": "18"
-  },
-  {
-    "id": "22",
-    "name": "Chicken Fillet",
-    "restaurant": "Chicken HUT",
-    "restaurantId": "3",
-    "price": "52"
-  },
-  {
-    "id": "23",
-    "name": "Chicken Kiev",
-    "restaurant": "Пузата Хата",
-    "restaurantId": "4",
-    "price": "58"
-  },
-  {
-    "id": "24",
-    "name": "Borsch",
-    "restaurant": "Пузата Хата",
-    "restaurantId": "4",
-    "price": "28"
-  },
-  {
-    "id": "25",
-    "name": "Varenyky",
-    "restaurant": "Пузата Хата",
-    "restaurantId": "4",
-    "price": "32"
-  },
-  {
-    "id": "26",
-    "name": "Chicken Shawarma",
-    "restaurant": "Пузата Хата",
-    "restaurantId": "4",
-    "price": "45"
+    "name": "Spicy McChicken",
+    "restaurant": "McDonald's",
+    "restaurantId": "1",
+    "price": "50",
+    "imgUrl": "https://t1.gstatic.com/licensed-image?q=tbn:ANd9GcSVCgY4Qbt9Fq6_iTqPg35PFzBhkkHkzfbrPhe0yAgJ8c6ZtQlRwlYsIxIJgLRf9Rwd"
   }
 ]

@@ -1,4 +1,4 @@
-const cart = require("../models/order");
+const order = require("../models/order");
 const { HttpError } = require("../helpers");
 
 const getOrderList = async (req, res, next) => {
@@ -12,7 +12,7 @@ const getOrderList = async (req, res, next) => {
 
 const addNewOrder = async (req, res, next) => {
   try {
-    const result = await cart.addProductToCart(req.body);
+    const result = await order.addOrderToList(req.body);
     res.status(201).json(result);
   } catch (error) {
     next(error);

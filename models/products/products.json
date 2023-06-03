@@ -13,7 +13,7 @@
     "restaurant": "KFC",
     "restaurantId": "2",
     "price": "82",
-    "imgUrl": "https://t1.gstatic.com/licensed-image?q=tbn:ANd9GcSVCgY4Qbt9Fq6_iTqPg35PFzBhkkHkzfbrPhe0yAgJ8c6ZtQlRwlYsIxIJgLRf9Rwd"
+    "imgUrl": "https://images.ctfassets.net/crbk84xktnsl/4zgRg2g2ZRBey10D3qfjyZ/e9f079f486f401b884ad570be0a48af8/Zinger_Burger.png"
   },
   {
     "id": "3",
@@ -21,7 +21,7 @@
     "restaurant": "McDonald's",
     "restaurantId": "1",
     "price": "34",
-    "imgUrl": "https://t1.gstatic.com/licensed-image?q=tbn:ANd9GcSVCgY4Qbt9Fq6_iTqPg35PFzBhkkHkzfbrPhe0yAgJ8c6ZtQlRwlYsIxIJgLRf9Rwd"
+    "imgUrl": "https://kfc-menu.co.uk/wp-content/uploads/2022/06/zinger-tower-burger.jpg"
   },
   {
     "id": "4",
@@ -45,7 +45,7 @@
     "restaurant": "KFC",
     "restaurantId": "2",
     "price": "68",
-    "imgUrl": "https://t1.gstatic.com/licensed-image?q=tbn:ANd9GcSVCgY4Qbt9Fq6_iTqPg35PFzBhkkHkzfbrPhe0yAgJ8c6ZtQlRwlYsIxIJgLRf9Rwd"
+    "imgUrl": "https://kfc-menu.co.uk/wp-content/uploads/2022/06/zinger-tower-burger.jpg"
   },
   {
     "id": "7",
@@ -61,7 +61,7 @@
     "restaurant": "McDonald's",
     "restaurantId": "1",
     "price": "92",
-    "imgUrl": "https://t1.gstatic.com/licensed-image?q=tbn:ANd9GcSVCgY4Qbt9Fq6_iTqPg35PFzBhkkHkzfbrPhe0yAgJ8c6ZtQlRwlYsIxIJgLRf9Rwd"
+    "imgUrl": "https://kfc-menu.co.uk/wp-content/uploads/2022/06/zinger-tower-burger.jpg"
   },
   {
     "id": "9",
@@ -93,7 +93,7 @@
     "restaurant": "McDonald's",
     "restaurantId": "1",
     "price": "47",
-    "imgUrl": "https://t1.gstatic.com/licensed-image?q=tbn:ANd9GcSVCgY4Qbt9Fq6_iTqPg35PFzBhkkHkzfbrPhe0yAgJ8c6ZtQlRwlYsIxIJgLRf9Rwd"
+    "imgUrl": "https://s23209.pcdn.co/wp-content/uploads/2022/07/220602_DD_The-Best-Ever-Cheeseburger_267.jpg"
   },
   {
     "id": "13",
@@ -109,7 +109,7 @@
     "restaurant": "McDonald's",
     "restaurantId": "1",
     "price": "23",
-    "imgUrl": "https://t1.gstatic.com/licensed-image?q=tbn:ANd9GcSVCgY4Qbt9Fq6_iTqPg35PFzBhkkHkzfbrPhe0yAgJ8c6ZtQlRwlYsIxIJgLRf9Rwd"
+    "imgUrl": "https://s23209.pcdn.co/wp-content/uploads/2022/07/220602_DD_The-Best-Ever-Cheeseburger_267.jpg"
   },
   {
     "id": "15",
@@ -157,6 +157,30 @@
     "restaurant": "McDonald's",
     "restaurantId": "1",
     "price": "50",
+    "imgUrl": "https://t1.gstatic.com/licensed-image?q=tbn:ANd9GcSVCgY4Qbt9Fq6_iTqPg35PFzBhkkHkzfbrPhe0yAgJ8c6ZtQlRwlYsIxIJgLRf9Rwd"
+  },
+  {
+    "id": "21",
+    "name": "Spicy Borsch",
+    "restaurant": "Пузата хата",
+    "restaurantId": "4",
+    "price": "25",
+    "imgUrl": "https://t1.gstatic.com/licensed-image?q=tbn:ANd9GcSVCgY4Qbt9Fq6_iTqPg35PFzBhkkHkzfbrPhe0yAgJ8c6ZtQlRwlYsIxIJgLRf9Rwd"
+  },
+  {
+    "id": "22",
+    "name": "Soup",
+    "restaurant": "Пузата хата",
+    "restaurantId": "4",
+    "price": "15",
+    "imgUrl": "https://t1.gstatic.com/licensed-image?q=tbn:ANd9GcSVCgY4Qbt9Fq6_iTqPg35PFzBhkkHkzfbrPhe0yAgJ8c6ZtQlRwlYsIxIJgLRf9Rwd"
+  },
+  {
+    "id": "23",
+    "name": "Okroshka",
+    "restaurant": "Пузата хата",
+    "restaurantId": "4",
+    "price": "30",
     "imgUrl": "https://t1.gstatic.com/licensed-image?q=tbn:ANd9GcSVCgY4Qbt9Fq6_iTqPg35PFzBhkkHkzfbrPhe0yAgJ8c6ZtQlRwlYsIxIJgLRf9Rwd"
   }
 ]

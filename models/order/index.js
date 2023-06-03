@@ -12,7 +12,7 @@ const getAll = async () => {
 const addOrderToList = async (orderBody) => {
   const order = await getAll();
   const newOrder = {
-    id: nanoid(),
+    id: nanoid.nanoid(),
     ...orderBody,
   };
 

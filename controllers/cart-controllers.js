@@ -13,7 +13,7 @@ const getCart = async (req, res, next) => {
 const addNewProduct = async (req, res, next) => {
   try {
     const { id } = req.params;
-    console.log(id);
+
     const result = await cart.addProductToCart({ productId: id });
     res.status(201).json(result);
   } catch (error) {
